@@ -9,4 +9,5 @@ Welcome to my collection of data analysis projects! In this repository, you'll f
 - Statistical Analysis
 - Data Visualization: MS Excel, Tableau, MS Power BI
 - Programming Languages: SQL, Python
+- DataBase: MySQL, PostgreSQL
 - Tools and Libraries: MYSQL, Pandas, Matplotlib, Scikitlearn
